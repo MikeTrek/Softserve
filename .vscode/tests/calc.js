@@ -46,7 +46,7 @@ describe('democalc test', function(){
             
     
     
-            browser.sleep(10000);
+            browser.sleep(2000);
         
         
         
